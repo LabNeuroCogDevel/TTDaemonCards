@@ -5,6 +5,8 @@
 
 ## Usage
 
+For the most up-to-date deck:
+
 1. Download and install [anki](https://apps.ankiweb.net/)
 1. Install Add-on [CrowdAnki](https://github.com/Stvad/CrowdAnki) 
    * Tools -> Addons --> "Get Addons"
@@ -13,6 +15,8 @@
 1. Import this deck
    * File -> CrowdAnki: Import from Github
    * `LabNeuroCogDevel/TTDaemonCards`
+
+Or, to avoid installing the addon, load with File -> import the `apkg` file from https://ankiweb.net/shared/info/833989176
 
 ## Editing
 To edit notes:
