@@ -1,5 +1,8 @@
 # TT\_Daemon atlas Anki memory deck
 
+![](screenshot.png?raw=True)
+
+
 ## Usage
 
 1. Download and install [anki](https://apps.ankiweb.net/)
